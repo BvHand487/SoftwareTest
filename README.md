@@ -1,3 +1,4 @@
 -- First commit change --
 -- Second commit change --
 -- First new-branch-2 commit --
+-- Second new-branch-2 commit --
